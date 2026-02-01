@@ -10,9 +10,9 @@ The goal is to compare different modeling approaches, understand production dyna
 - `03_feature_engineering.ipynb` - Creation of supervised learning features, including lag variables, rolling statistics, and percentage changes. Feature relevance is assessed using correlation analysis.
 - `04_baseline_models.ipynb` - Implementation of baseline forecasting models (Naive forecast, Moving Average, Exponential Weighted Moving Average, Holt-Winters) used as performance benchmarks.
 - `05_arima_models.ipynb` - Classical time series modeling using ARIMA and Seasonal ARIMA. Includes stationarity testing (ADF), differencing, ACF/PACF analysis, and residual diagnostics.
-- `06_ml.ipynb` - Machine learning models for time series forecasting, including Linear Regression, Random Forest Regression, and Support Vector Regression.
+- `06_ml_models.ipynb` - Machine learning models for time series forecasting, including Linear Regression, Random Forest Regression, and Support Vector Regression.
 One-step, multi-step recursive, and multi-output forecasting strategies are evaluated.
-- `07_lstm.ipynb` - Deep learning approach using LSTM networks. Covers sequence creation, scaling, hyperparameter tuning, and validation using RMSE.
+- `07_lstm_model.ipynb` - Deep learning approach using LSTM networks. Covers sequence creation, scaling, hyperparameter tuning, and validation using RMSE.
 - `08_results_and_business_insights.ipynb` - Deep learning approach using LSTM networks. Covers sequence creation, scaling, hyperparameter tuning, and validation using RMSE.
 
 ## Data
