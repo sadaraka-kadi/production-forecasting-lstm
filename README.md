@@ -16,7 +16,7 @@ One-step, multi-step recursive, and multi-output forecasting strategies are eval
 - `08_results_and_business_insights.ipynb` - Deep learning approach using LSTM networks. Covers sequence creation, scaling, hyperparameter tuning, and validation using RMSE.
 
 ## Data
-- Kaggle Dataset: US Oil & Gas Production & Disposition 2015–2025(https://www.kaggle.com/datasets/pinuto/us-oil-and-gas-production-and-disposition-20152025/data)
+- Kaggle Dataset: US Oil & Gas Production & Disposition 2015–2025 (https://www.kaggle.com/datasets/pinuto/us-oil-and-gas-production-and-disposition-20152025/data)
 - Frequency: Monthly
 - Period: 2015 - 2025
 - Target Variable: Oil Production Volume
