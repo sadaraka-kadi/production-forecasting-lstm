@@ -12,8 +12,9 @@ The goal is to compare different modeling approaches, understand production dyna
 - `05_arima_models.ipynb` - Classical time series modeling using ARIMA and Seasonal ARIMA. Includes stationarity testing (ADF), differencing, ACF/PACF analysis, and residual diagnostics.
 - `06_ml_models.ipynb` - Machine learning models for time series forecasting, including Linear Regression, Random Forest Regression, and Support Vector Regression.
 One-step, multi-step recursive, and multi-output forecasting strategies are evaluated.
-- `07_lstm_model.ipynb` - Deep learning approach using LSTM networks. Covers sequence creation, scaling, hyperparameter tuning, and validation using RMSE.
-- `08_results_and_business_insights.ipynb` - Deep learning approach using LSTM networks. Covers sequence creation, scaling, hyperparameter tuning, and validation using RMSE.
+- `07_lstm_hyperparameter_tuning.ipynb` - Covers sequence hyperparameter tuning.
+- `08_lstm_model.ipynb` - Deep learning approach using LSTM networks. Covers sequence creation, scaling and validation using RMSE.
+- `09_results_and_business_insights.ipynb` - Contains plots and comparison tables 
 
 ## Data
 - Kaggle Dataset: US Oil & Gas Production & Disposition 2015–2025 (https://www.kaggle.com/datasets/pinuto/us-oil-and-gas-production-and-disposition-20152025/data)
