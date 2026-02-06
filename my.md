@@ -136,15 +136,13 @@ Run notebooks in order (01 through 10) to reproduce the complete analysis pipeli
 
 | Model | MAPE (Test) | RMSE (Test) | Best Use Case |
 |-------|-------------|-------------|---------------|
-| Naive Baseline | X.XX% | X.XXXX | Benchmark |
-| ARIMA | X.XX% | X.XXXX | Pattern analysis |
-| Random Forest | X.XX% | X.XXXX | Short-term forecast |
-| SVR | X.XX% | X.XXXX | Short-term forecast |
-| 1-Step LSTM | X.XX% | X.XXXX | Single-step prediction |
-| Multi-Step LSTM | X.XX% | X.XXXX | Avoid (error accumulation) |
-| Multi-Output LSTM | X.XX% | X.XXXX | **Medium-term forecast** |
-
-*(Fill in actual values from your `10_results_and_business_insights.ipynb`)*
+| Naive Baseline | 3.1% | 3548693.13 | Benchmark |
+| ARIMA | 4.1% | 4538933.012| Pattern analysis |
+| Random Forest | 0.15% | 0.04| Short-term forecast |
+| SVR | 0.17% | 0.047 | Short-term forecast |
+| 1-Step LSTM | 0.27% | 0.0035 | Single-step prediction |
+| Multi-Step LSTM | 0.37% | 0.0078 | Avoid (error accumulation) |
+| Multi-Output LSTM | 0.19% | 0.0016 | **Medium-term forecast** |
 
 ## Future Work
 
