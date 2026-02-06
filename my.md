@@ -61,7 +61,6 @@ All models are compared on the same scale (log volume) using:
 - **MAE** (Mean Absolute Error): Average prediction error
 - **MAPE** (Mean Absolute Percentage Error): Relative error metric
 - **R²** (R-squared): Proportion of variance explained
-- **Bias**: Systematic over/under-prediction tendency
 
 ## Key Findings
 
