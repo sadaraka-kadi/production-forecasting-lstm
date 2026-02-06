@@ -12,10 +12,10 @@ The goal is to compare different modeling approaches, understand production dyna
 - `05_arima_models.ipynb` - Classical time series modeling using ARIMA and Seasonal ARIMA. Includes stationarity testing (ADF), differencing, ACF/PACF analysis, and residual diagnostics.
 - `06_ml_models.ipynb` - Machine learning models for time series forecasting, including Linear Regression, Random Forest Regression, and Support Vector Regression.
 One-step, multi-step recursive, and multi-output forecasting strategies are evaluated.
-- `07_lstm_hyperparameter_tuning.ipynb` - Covers sequence hyperparameter tuning.
+- `07_lstm_hyperparameter_tuning.ipynb` - Hyperparameter tuning for LSTM sequence length, batch size, and learning rate.
 - `08_lstm_model.ipynb` - Deep learning approach using LSTM networks. Covers sequence creation, scaling and validation using RMSE.
-- `09_24m_forecast,ipynb` - Future forecasting 24 months ahead using LSTM multi-ouput forecasting.
-- `10_results_and_business_insights.ipynb` - Contains plots and comparison tables
+- `09_24m_forecast,ipynb` - Forecasting 24 months ahead using an LSTM multi-ouput model.
+- `10_results_and_business_insights.ipynb` - Consolidated results, visual comparisons, and interpretation of findings from a business and operational perspective.
   
 
 ## Data
@@ -47,3 +47,6 @@ One-step, multi-step recursive, and multi-output forecasting strategies are eval
 - scikit-learn
 - TensorFlow / Keras
 - Jupyter Notebook
+
+## Conclusion
+- LSTM models provide valuable forecasting capability for oil and gas production when applied using direct multi-output strategies, while classical machine learning methods remain competitive and often superior for short-term and recursive forecasting tasks.
