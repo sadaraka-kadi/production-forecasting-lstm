@@ -156,13 +156,12 @@ Run notebooks in order (01 through 10) to reproduce the complete analysis pipeli
 
 ## License
 
-[Specify your license, e.g., MIT]
+[ MIT]
 
 ## Author
 
-[Your Name]
+[Kadi Sadaraka]
 
 ## Acknowledgments
 
 - Dataset: Kaggle - US Oil & Gas Production & Disposition
-- [Any other acknowledgments]
