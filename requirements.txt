@@ -1,7 +1,8 @@
 Python 3.x**
-- **Data manipulation**: pandas, numpy
-- **Visualization**: matplotlib, seaborn
-- **Statistical modeling**: statsmodels
-- **Machine Learning**: scikit-learn
-- **Deep Learning**: TensorFlow, Keras
-- **Development**: Jupyter Notebook
+- Data manipulation: pandas, numpy
+- Visualization: matplotlib, seaborn
+- Statistical modeling: statsmodels
+- Machine Learning: scikit-learn
+- Deep Learning: TensorFlow, Keras
+- Development: Jupyter Notebook
+
