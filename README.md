@@ -29,6 +29,9 @@ This project forecasts monthly oil & gas production using baseline statistical m
 
 10. **`10_results_and_business_insights.ipynb`** – Consolidated results, visual comparisons across all models, and interpretation of findings from business and operational perspectives.
 
+11. **`plot_module.py`** – Reusable plotting utilities shared across notebooks to ensure consistent visualization of forecasts, model performance, and uncertainty intervals.
+
+
 ## Dataset
 
 - **Source**: [US Oil & Gas Production & Disposition 2015–2025](https://www.kaggle.com/datasets/pinuto/us-oil-and-gas-production-and-disposition-20152025/data) (Kaggle)
